@@ -17,6 +17,8 @@
 
 ### サブスクリプション特化ECパッケージ開発
 
+正社員として在籍。
+
 使用技術: Ruby, Rails, JavaScript, React, Redux, HTML, CSS
 
 - 1年目　保守運用
@@ -30,6 +32,8 @@
   - 医薬品機能(ショップが第一類医薬品を販売できるようにするための機能)
 
 ### 不動産売買マッチングサービス
+
+業務委託として関わる。
 
 - プロジェクトA
   - 使用技術: Ruby, Rails, JavaScript, JQuery, HTML, CSS, AWS, Docker
