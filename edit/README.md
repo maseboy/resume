@@ -26,7 +26,11 @@ https://realsound.jp/person/about/1033441
 - [上白石萌歌、上白石萌音、浜辺美波　朝ドラで躍進する「東宝シンデレラ」女優たち](https://realsound.jp/movie/2022/08/post-1115746.html)
   - Yahoo!ニューストピックス獲得
 - [ベッキーはいつから怪演俳優に？　『赤いナースコール』でも際立つミステリアスな演技](https://realsound.jp/movie/2022/08/post-1090802.html)
+  - Yahoo!ニューストピックス獲得
 - [『ユーレイデコ』の設定を『PSYCHO-PASS』などから紐解く　評価経済社会の功罪とは](https://realsound.jp/movie/2022/07/post-1088540.html)
 - [『暴太郎戦隊ドンブラザーズ』子供から大人まで虜に　“本気のおふざけ”が生み出した熱狂](https://realsound.jp/movie/2023/02/post-1267232.html)
 - [日本アニメが映画の世界市場を切り崩す？　『すずめの戸締まり』の評価で考える“現在地”](https://realsound.jp/movie/2023/02/post-1253459.html)
 
+### 特集
+- [日本アニメーションの現在とこれから 真の「作家の時代」へ向けて](https://realsound.jp/movie/2023/02/post-1260262.html)
+- [キネマシトラスはいかにして『メイドインアビス』をアニメ化したのか](https://realsound.jp/movie/2022/08/post-1095353.html)
