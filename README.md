@@ -1,7 +1,7 @@
 # 職務経歴書
 ## 概要
 
-エンジニアとして3年半の実務経験があります。
+エンジニアとして4年半の実務経験があります。
 サーバーサイドとクライアントサイドの開発どちらも任せていただくことができます。
 
 ## スキル
@@ -10,8 +10,6 @@
 - HTML, CSS, JavaScript, React, Redux, JQuery, Stimulus
 - AWS, Docker
 - Selenium, RSpec
-
-いずれも自走が可能なレベルです。
 
 ## 職務経歴
 
@@ -46,3 +44,10 @@
 - プロジェクトC
   - 使用技術: JavaScript, React
   - 既存のReact製LPフォームの施策改善を行なっていました。
+
+### 医療学生サポートサービス
+
+業務委託として関わる。
+
+使用技術: Ruby, Rails, JavaScript, React, Redux, HTML, CSSs
+使用技術: Ruby, Rails, JavaScript, React, Redux, HTML, CSS
