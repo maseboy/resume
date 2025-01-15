@@ -18,6 +18,7 @@ https://realsound.jp/person/about/1033441
 - [叶姉妹、『劇場版モノノ怪 唐傘』の“現代性”を絶賛　「これは人生の椅子取りゲームよ」](https://realsound.jp/movie/2024/07/post-1728955.html)
   - キャスティングも担当
 - [塩野瑛久が語る、TVアニメ『ぶっちぎり?!』と『HiGH&LOW』に共通する“愛らしさ”](https://realsound.jp/movie/2024/02/post-1586480.html)
+  - キャスティングも担当
 - [斉藤陽一郎、父親にとっての青春は「家族と過ごす時間」　『ミライヘキミト。』監督と語り合う](https://realsound.jp/movie/2024/08/post-1764525.html)
 - [『THE FIRST SLAM DUNK』井上雄彦の絵をいかに3DCGで再現？　CG担当が明かす制作過程](https://realsound.jp/movie/2023/04/post-1306272.html)
 - [NON STYLE 井上×四千頭身が『NARUTO』を語り尽くす　サスケは「俺なら救わない（笑）」](https://realsound.jp/movie/2023/01/post-1233050.html)
